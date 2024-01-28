@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @AntonyRohit
 - 👀 I’m interested in Robotics,Simulation,Automation Tools, Optimization Tools
-- 🌱 I’m currently learning C++, Python, Matlab
-- 💞️ I’m looking to collaborate on 
+- 🌱 I'm Proficient in C, Python, Matlab
+- 🌱 I’m currently learning C++, Fortran
+- 💞️ I’m looking to collaborate on automation of solid modeling and PLM design
 - 📫 How to reach me @ t.antony.rohit@gmail.com
 
 <!---
