@@ -3,7 +3,7 @@
 - 🌱 I'm Proficient in C, Python, Matlab
 - 🌱 I’m currently learning C++, Fortran
 - 💞️ I’m looking to collaborate on automation of solid modeling and PLM design
-- 📫 How to reach me @ t.antony.rohit@gmail.com
+- 📫 you can reach me @ t.antony.rohit@gmail.com
 
 <!---
 AntonyRohit/AntonyRohit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
